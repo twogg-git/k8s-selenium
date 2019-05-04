@@ -1,5 +1,5 @@
 # Kubernetes & Selenium 
-A lot of digital transformations are going on into Quality Assurance. Companies are focusing more on how they can automate their test processes to make them quicker, easier to configure and more efficiently deployed. The meeting point between this  goals can be reach with the Kubernetes orchestration capabilities and Selenium Grid automation management.
+A lot of digital transformations are going on into Quality Assurance. Companies are focusing more on how they can automate their test processes to make them quicker, easier to configure and more efficiently deployed. The meeting point between this  goals can be reach Kubernetes orchestration capabilities and Selenium Grid automation management.
 
 ## Kubernetes 101 
 
