@@ -2,6 +2,7 @@
 A lot of digital transformations are going on into Quality Assurance. Companies are focusing more on how they can automate their test processes to make them quicker, easier to configure and more efficiently deployed. To achieve this  goals we are going to use Kubernetes orchestration capabilities and Selenium Grid automation management.
 
 ## Kubernetes 101 
+<img height="190" width="210" src="https://github.com/twogg-git/k8s-selenium/blob/master/imgs/kubernetes.png">
 
 - **Pod:** group of one or more running containers.    
 - **Pod template:**  describes the desired state of a single container.     
@@ -10,6 +11,7 @@ A lot of digital transformations are going on into Quality Assurance. Companies 
 - **Services:** provide abstracted static IP address for pods selected by labels   
 
 ## Selenium Grid
+<img height="80" width="300" src="https://raw.githubusercontent.com/twogg-git/k8s-selenium/master/imgs/selenium.png">
 
 When it comes to web-application automation, Selenium Grid has become the first fundamental part of the revolutionizing tool sets, allowing to perform Selenium tests on different machines and with multiple browsers at the same time.
 
