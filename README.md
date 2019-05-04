@@ -11,7 +11,7 @@ A lot of digital transformations are going on into Quality Assurance. Companies 
 - **Services:** provide abstracted static IP address for pods selected by labels   
 
 ## Selenium Grid
-<img height="80" width="300" src="https://raw.githubusercontent.com/twogg-git/k8s-selenium/master/imgs/selenium.png">
+<img height="65" width="300" src="https://raw.githubusercontent.com/twogg-git/k8s-selenium/master/imgs/selenium.png">
 
 When it comes to web-application automation, Selenium Grid has become the first fundamental part of the revolutionizing tool sets, allowing to perform Selenium tests on different machines and with multiple browsers at the same time.
 
