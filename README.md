@@ -81,9 +81,9 @@ kubectl exec selenium-hub-xxxxxx -- printenv
 ```
 
 ```sh
-kubectl exec selenium-node-chrome-7575bf944f-hd8r4 -- printenv
+kubectl exec selenium-node-chrome-xxxxxx -- printenv
 ```
 
 ```sh
-kubectl exec selenium-node-chrome-7575bf944f-2fmt7 --printenv
+kubectl exec selenium-node-chrome-xxxxxx --printenv
 ```
