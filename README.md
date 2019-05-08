@@ -88,3 +88,9 @@ kubectl exec selenium-hub-xxxxxx --printenv
 kubectl exec selenium-node-chrome-xxxxxx --printenv
 ```
 <img src="https://github.com/twogg-git/k8s-selenium/blob/master/imgs/printenv_pod.png">
+
+## Clean up your Cluster
+Finally, don't forget to clean up all the objects created, if you use katacoda after 15min of inactivity you will be lost connection and everything will be deleted. But locally you have to clean up, here is the command for it.
+```sh
+kubectl delete pods,services,deployments,replicaset --all
+```
